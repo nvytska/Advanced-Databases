@@ -1,0 +1,21 @@
+store_id,store_name,store_type,region,manager_id,opening_year,square_footage
+1,Elite Retail - East Jamesbury,Supermarket,West,101,2016,10048
+2,Elite Retail - Marcusmouth,Express,South,102,2021,4778
+3,Elite Retail - Stevenville,Express,East,103,2011,12664
+4,Elite Retail - Sarahport,Supermarket,South,104,2011,8778
+5,Elite Retail - Higginsmouth,Express,North,105,2018,12108
+6,Elite Retail - East Elizabethmouth,Express,West,106,2019,2061
+7,Elite Retail - Rodriguezfort,Online Warehouse,West,107,2012,5948
+8,Elite Retail - Rogerschester,Express,Central,108,2022,14556
+9,Elite Retail - Port Saraton,Online Warehouse,North,109,2012,11456
+10,Elite Retail - East Annahaven,Express,North,110,2020,10583
+11,Elite Retail - North Michelle,Supermarket,Central,111,2020,14736
+12,Elite Retail - South Rebecca,Online Warehouse,North,112,2016,13972
+13,Elite Retail - Ryanstad,Supermarket,Central,113,2016,13471
+14,Elite Retail - Batesmouth,Supermarket,Central,114,2018,6520
+15,Elite Retail - Port Gary,Online Warehouse,West,115,2017,8664
+16,Elite Retail - Jaredmouth,Supermarket,East,116,2017,4116
+17,Elite Retail - Meyershire,Supermarket,Central,117,2015,2121
+18,Elite Retail - New Jenniferfort,Supermarket,Central,118,2022,14887
+19,Elite Retail - West Travis,Online Warehouse,North,119,2024,2521
+20,Elite Retail - Juliechester,Express,West,120,2019,10180

@@ -1,0 +1,501 @@
+staff_id,staff_name,job_title,store_id,hire_date,is_full_time
+201,Andrea Ramirez,Floor Manager,7,2019-07-17,True
+202,Brent Martinez,Inventory Clerk,17,2022-07-20,True
+203,Bryan Curtis,Inventory Clerk,9,2023-03-22,False
+204,Richard Vargas,Inventory Clerk,16,2018-12-28,False
+205,Joel Fernandez,Cashier,4,2025-12-24,True
+206,Bradley Smith,Cashier,11,2022-03-05,True
+207,Kevin Hayes,Floor Manager,2,2023-06-22,True
+208,Antonio Carter,Inventory Clerk,12,2018-03-15,False
+209,John Raymond,Inventory Clerk,8,2024-01-25,True
+210,James Perkins,Cashier,1,2019-10-12,False
+211,Kenneth Perez,Inventory Clerk,8,2018-12-28,False
+212,Mr. Aaron Smith,Floor Manager,10,2020-08-17,True
+213,John Zamora,Floor Manager,9,2021-07-10,False
+214,Shelby Rogers,Inventory Clerk,4,2023-05-01,False
+215,Michael Lee,Cashier,12,2025-01-31,True
+216,Jesse Martinez,Floor Manager,16,2019-09-23,True
+217,Shannon Harrington,Inventory Clerk,12,2019-04-20,True
+218,Wanda Garcia,Cashier,10,2022-08-16,True
+219,Devin Turner,Cashier,3,2023-10-01,True
+220,Susan Moore,Inventory Clerk,15,2022-01-20,True
+221,Lisa Norton,Store Manager,5,2019-12-15,False
+222,Justin Hurley,Floor Manager,15,2025-10-30,False
+223,Jennifer Bradley,Cashier,16,2025-04-24,True
+224,Ashley Cochran,Cashier,2,2022-11-13,True
+225,Mr. Gabriel Hall,Floor Manager,14,2020-04-14,True
+226,Thomas Webster,Floor Manager,3,2017-03-06,False
+227,Jamie Carroll,Cashier,10,2022-03-27,True
+228,Gina Perry,Store Manager,11,2021-03-10,True
+229,Steven Richardson,Floor Manager,1,2024-07-08,True
+230,Melinda White,Floor Manager,14,2023-01-02,False
+231,Natalie Patrick,Inventory Clerk,16,2023-02-24,False
+232,Carl Burton,Inventory Clerk,12,2021-01-03,True
+233,Molly Olson,Floor Manager,5,2017-05-07,True
+234,Robert Morris,Cashier,20,2018-09-23,True
+235,Tracy Hall,Inventory Clerk,8,2023-07-09,False
+236,Dana Brown,Inventory Clerk,5,2018-04-14,False
+237,Rodney Brown,Store Manager,4,2024-11-23,False
+238,James Harris,Inventory Clerk,14,2025-10-18,False
+239,Alicia Payne,Floor Manager,15,2017-10-13,True
+240,Michael Burton,Store Manager,10,2024-05-29,False
+241,Logan Turner,Inventory Clerk,15,2025-05-25,False
+242,Amanda Shepherd,Cashier,11,2019-12-21,True
+243,Jennifer Hicks,Floor Manager,19,2024-04-25,False
+244,Thomas Weaver,Cashier,15,2021-04-29,True
+245,Gary Allen,Floor Manager,8,2022-11-17,False
+246,Alexandra Jones,Store Manager,11,2017-05-03,True
+247,Dr. Jamie Benjamin,Floor Manager,15,2021-01-12,True
+248,Kylie Pennington,Store Manager,15,2023-04-04,False
+249,Jaime White,Cashier,5,2018-02-17,False
+250,Randy Williams,Store Manager,7,2022-05-05,False
+251,Emily Porter,Floor Manager,11,2019-12-02,True
+252,Tyler Bryant,Inventory Clerk,10,2021-12-08,False
+253,Patrick Short,Inventory Clerk,15,2020-07-09,False
+254,Angela Craig,Cashier,3,2024-01-06,True
+255,Frank Daugherty,Floor Manager,17,2024-07-24,True
+256,Carrie West,Floor Manager,11,2022-08-27,False
+257,Rebecca Lang,Cashier,2,2025-11-11,True
+258,Keith Zavala,Floor Manager,12,2019-04-16,True
+259,Frank Sosa,Floor Manager,2,2025-07-08,True
+260,Gloria Warner,Cashier,20,2018-03-29,True
+261,Lisa Mason,Floor Manager,3,2021-04-26,True
+262,Robin Bonilla,Floor Manager,17,2025-08-20,False
+263,Brenda Smith,Inventory Clerk,5,2023-07-30,True
+264,Erika Cummings DDS,Floor Manager,10,2025-07-03,True
+265,Joseph Bennett,Store Manager,9,2019-06-18,False
+266,Christine Snow,Floor Manager,6,2019-01-22,True
+267,Natasha Myers,Store Manager,9,2020-11-29,False
+268,Luke Blevins,Store Manager,16,2020-04-21,True
+269,Billy Carney,Cashier,20,2023-05-19,True
+270,Shelly Wilson,Floor Manager,17,2018-06-16,False
+271,Jacqueline Arnold,Inventory Clerk,7,2026-03-10,False
+272,Justin Ramos,Cashier,18,2025-04-22,False
+273,Amy Barrett,Cashier,12,2019-06-27,True
+274,Jill Martinez,Cashier,16,2022-12-10,False
+275,Danielle Nguyen,Floor Manager,13,2017-05-24,True
+276,Brandon Smith,Cashier,3,2026-03-17,False
+277,Joyce Berg,Floor Manager,5,2016-09-19,False
+278,Desiree Rowland,Cashier,9,2022-04-25,False
+279,Jeffrey Monroe,Inventory Clerk,6,2023-09-19,False
+280,Deborah Montgomery,Cashier,15,2019-08-09,False
+281,Nicole Butler,Cashier,2,2019-12-01,True
+282,Amy Nelson,Cashier,1,2025-02-27,True
+283,Erika Carter,Floor Manager,14,2017-12-02,True
+284,Jim Floyd,Cashier,17,2021-01-18,True
+285,Patricia Williams,Store Manager,17,2023-02-22,False
+286,Collin Beasley,Cashier,19,2023-02-13,True
+287,Sarah Allen,Store Manager,7,2017-01-06,True
+288,Kristen Moore,Store Manager,2,2023-01-06,True
+289,Breanna Townsend,Inventory Clerk,18,2026-03-13,False
+290,Dalton Banks,Floor Manager,16,2025-08-29,True
+291,Paul Garcia,Cashier,15,2016-11-13,False
+292,Rebecca White,Cashier,19,2024-06-22,True
+293,John Fisher,Store Manager,8,2024-06-26,True
+294,William Lane,Floor Manager,5,2017-06-30,False
+295,Robert Moore,Cashier,6,2016-06-09,True
+296,Daniel Rogers,Store Manager,10,2019-07-06,False
+297,Matthew Diaz,Floor Manager,4,2022-12-30,True
+298,Daniel Pena,Floor Manager,9,2016-10-25,False
+299,Kenneth Matthews,Cashier,14,2020-01-13,True
+300,Brian Frost,Floor Manager,8,2018-10-26,False
+301,Christina Fox,Inventory Clerk,8,2023-05-22,True
+302,Mikayla Garcia,Inventory Clerk,16,2022-04-14,True
+303,Arthur Norman,Store Manager,5,2019-03-29,True
+304,Jacqueline Vasquez,Floor Manager,16,2023-10-02,True
+305,Maria Nelson,Store Manager,1,2023-01-07,False
+306,Gary Glover,Store Manager,5,2020-03-31,True
+307,Madison Crawford,Store Manager,10,2017-02-02,False
+308,Pamela Watts,Store Manager,16,2023-11-14,False
+309,Jason Obrien,Store Manager,20,2017-05-07,True
+310,Colin Shah,Store Manager,9,2022-03-20,False
+311,Emily Brown,Store Manager,7,2025-02-28,False
+312,Kelsey Briggs,Cashier,20,2020-03-12,False
+313,Brian Morgan,Inventory Clerk,15,2018-01-27,False
+314,Olivia Ford,Inventory Clerk,7,2016-05-15,True
+315,Ann Krause,Cashier,12,2024-04-09,False
+316,John Fritz,Cashier,8,2020-09-09,True
+317,Sarah Carpenter,Inventory Clerk,17,2017-05-22,False
+318,Kristen Navarro,Store Manager,12,2016-08-06,False
+319,Devin Harris,Floor Manager,13,2021-10-02,False
+320,Patrick Williams,Store Manager,13,2024-09-06,False
+321,Tiffany Mueller,Store Manager,9,2021-01-27,True
+322,Justin Clements,Cashier,11,2018-10-11,False
+323,Thomas Lopez,Cashier,6,2024-11-24,False
+324,Angela Perry,Floor Manager,2,2021-01-17,False
+325,Julie Fitzgerald,Floor Manager,3,2021-09-27,True
+326,Brian Brown,Store Manager,4,2025-10-09,True
+327,Denise Perry,Floor Manager,2,2017-05-22,True
+328,Belinda Stone,Cashier,13,2017-03-17,True
+329,Alyssa Stephens,Store Manager,12,2019-08-08,True
+330,Jonathan Peck,Cashier,12,2016-11-20,False
+331,Elizabeth Rich,Floor Manager,20,2025-01-06,True
+332,Carrie Anderson,Floor Manager,19,2019-09-01,False
+333,Kevin Garcia,Inventory Clerk,8,2016-03-30,False
+334,Kim Nguyen,Store Manager,12,2024-06-06,True
+335,Tamara Klein,Cashier,15,2017-04-02,True
+336,Janice Rodriguez,Store Manager,4,2019-04-03,False
+337,Kristina Nelson,Inventory Clerk,4,2017-10-13,False
+338,Stephanie Whitney,Inventory Clerk,20,2023-12-07,False
+339,Laura Woods,Store Manager,10,2019-03-23,False
+340,Christine Swanson,Cashier,18,2017-01-29,False
+341,Austin Wood,Inventory Clerk,8,2025-11-21,False
+342,Holly Brock,Cashier,19,2025-03-30,False
+343,Anthony Brown,Store Manager,12,2021-03-30,True
+344,Sydney Ramos,Store Manager,14,2020-07-09,True
+345,Kimberly Little,Cashier,13,2019-11-13,True
+346,Julia Frazier,Store Manager,10,2025-07-29,True
+347,Kelly Green,Inventory Clerk,6,2019-12-14,True
+348,James Davis,Floor Manager,19,2019-04-13,True
+349,Bryan Larson,Floor Manager,3,2018-10-05,True
+350,Maria Chandler,Inventory Clerk,7,2020-09-03,True
+351,Zachary Gonzalez MD,Floor Manager,12,2018-07-24,True
+352,Russell Griffin,Inventory Clerk,14,2019-10-24,True
+353,Brittany Flynn,Floor Manager,12,2020-11-27,False
+354,Kathleen Brown,Store Manager,11,2017-07-20,True
+355,Jennifer Nguyen,Store Manager,13,2018-12-20,True
+356,Jonathan Fowler,Inventory Clerk,15,2016-12-25,True
+357,Jamie Tanner,Inventory Clerk,10,2023-11-03,True
+358,Monique Tyler,Store Manager,3,2017-05-12,True
+359,David Martin,Inventory Clerk,8,2020-05-03,False
+360,Phillip Williamson,Inventory Clerk,4,2021-04-10,False
+361,Alexandria Aguilar,Store Manager,9,2022-10-05,True
+362,Michael Carter,Inventory Clerk,11,2020-10-23,False
+363,Teresa Brooks,Inventory Clerk,20,2023-04-09,True
+364,Matthew Smith DVM,Floor Manager,12,2020-08-16,False
+365,Anthony Bradford,Store Manager,16,2022-09-09,True
+366,Amy Brown,Cashier,9,2020-10-21,False
+367,Mr. Marvin Cox,Inventory Clerk,4,2020-01-17,False
+368,Bethany Farrell,Store Manager,10,2026-03-15,False
+369,Mary Daniel,Cashier,9,2018-10-15,True
+370,Steven Beltran,Inventory Clerk,12,2016-12-13,True
+371,Ryan Perez DDS,Store Manager,18,2020-09-03,False
+372,Samantha Fernandez,Cashier,3,2020-11-24,True
+373,Brianna James,Inventory Clerk,10,2023-09-27,False
+374,Adam Doyle,Inventory Clerk,18,2018-03-23,False
+375,Daniel Rodriguez,Cashier,2,2016-10-14,False
+376,Marco Rogers,Store Manager,7,2023-09-05,True
+377,Dana Allen,Store Manager,8,2025-12-06,False
+378,Nicole White MD,Floor Manager,14,2017-01-30,True
+379,Ashley Nguyen,Store Manager,19,2018-06-09,True
+380,Cheyenne Wilson,Floor Manager,5,2017-04-21,True
+381,Peter Rivera,Store Manager,17,2017-05-21,True
+382,David Tran,Inventory Clerk,9,2025-10-02,True
+383,Frederick Smith,Inventory Clerk,10,2020-12-06,False
+384,Madison Donaldson,Store Manager,4,2025-03-16,False
+385,Morgan Adams,Cashier,18,2016-08-05,False
+386,Aaron Walker,Store Manager,20,2025-10-22,False
+387,Connie Daniel,Inventory Clerk,10,2019-01-22,False
+388,Richard Webster,Cashier,9,2017-09-06,True
+389,Andrew Mckee,Floor Manager,16,2021-02-15,False
+390,George Lyons,Inventory Clerk,12,2019-03-02,False
+391,Mr. Timothy Martin,Cashier,13,2025-11-01,False
+392,Cameron Donaldson,Cashier,10,2025-07-31,False
+393,Stacey Hall,Store Manager,2,2018-12-05,True
+394,Juan Roberts,Store Manager,19,2016-04-25,False
+395,Thomas Anderson,Inventory Clerk,17,2017-02-21,False
+396,Jesse Henry,Store Manager,11,2019-12-17,True
+397,Andrew Long,Cashier,11,2016-07-15,False
+398,Mr. Michael Harrington,Cashier,9,2018-10-15,True
+399,Crystal Lawson,Floor Manager,13,2016-05-07,False
+400,Debra Tate,Cashier,5,2025-03-03,False
+401,Bryan Thompson,Store Manager,15,2020-02-12,False
+402,Charles Carlson,Floor Manager,12,2018-07-04,False
+403,Brandon Wallace,Floor Manager,13,2024-06-02,False
+404,Michelle Miller,Floor Manager,7,2019-08-02,False
+405,Melissa Stokes,Cashier,7,2025-01-06,False
+406,Lisa Tate,Inventory Clerk,15,2023-03-16,False
+407,Stephen Mann,Store Manager,15,2022-07-07,True
+408,Samantha Horn,Floor Manager,19,2021-11-29,False
+409,Melissa Johnson,Floor Manager,3,2023-12-12,True
+410,Tammy Stanley,Cashier,17,2024-03-15,True
+411,Mark Shepard,Floor Manager,11,2021-02-27,True
+412,Rhonda Hodge,Cashier,16,2019-07-14,True
+413,Franklin Decker,Inventory Clerk,1,2024-10-01,False
+414,Amanda Bates,Store Manager,3,2024-09-26,False
+415,Richard Sawyer,Cashier,14,2024-11-23,False
+416,Michael Hernandez,Cashier,9,2016-11-09,True
+417,Zachary Rivera,Store Manager,4,2021-11-27,True
+418,Briana Blake,Cashier,11,2019-08-25,False
+419,Lauren Fischer,Store Manager,9,2016-12-28,False
+420,Valerie Moreno,Store Manager,18,2020-06-03,True
+421,Rodney Nichols,Inventory Clerk,9,2023-04-18,False
+422,Kimberly Allen,Inventory Clerk,19,2016-05-26,True
+423,John Arias,Inventory Clerk,3,2021-09-07,False
+424,Kimberly Acosta,Cashier,20,2023-02-15,True
+425,Kelly Gardner,Inventory Clerk,17,2023-11-19,False
+426,Lindsey Gilmore,Store Manager,8,2025-12-20,True
+427,Kevin Zamora,Floor Manager,4,2016-12-13,False
+428,Cynthia Mathis,Inventory Clerk,12,2020-10-05,True
+429,Betty Phillips,Floor Manager,16,2025-12-09,True
+430,Rita Mcbride,Store Manager,10,2023-06-20,True
+431,Hunter Martin,Floor Manager,14,2017-09-05,True
+432,David Sims,Inventory Clerk,15,2019-08-09,False
+433,Monique Collins,Floor Manager,12,2017-08-12,True
+434,James Hill,Cashier,5,2024-09-27,False
+435,Adam Johnson,Inventory Clerk,11,2022-11-09,False
+436,Jessica Rodriguez,Store Manager,19,2016-04-02,False
+437,Adam Lee,Store Manager,1,2023-12-07,True
+438,Douglas Patterson,Inventory Clerk,17,2017-07-25,True
+439,Marcus Newman,Cashier,8,2025-01-05,True
+440,Denise Combs,Inventory Clerk,6,2022-02-20,True
+441,Monica Castillo,Inventory Clerk,14,2021-07-29,False
+442,Yesenia Smith,Floor Manager,10,2021-08-08,False
+443,Stephen Scott,Cashier,20,2026-02-13,True
+444,Jeffrey Hester,Floor Manager,1,2024-04-02,False
+445,Jason Elliott,Cashier,8,2018-10-16,False
+446,Scott Hunt,Inventory Clerk,6,2018-05-29,True
+447,Julie Perez,Cashier,17,2024-05-21,True
+448,Brian Wright,Floor Manager,2,2024-07-18,True
+449,Andrea Jackson,Cashier,14,2022-12-16,False
+450,Michael Smith,Inventory Clerk,7,2025-06-30,True
+451,Mark Jenkins,Floor Manager,3,2017-05-05,False
+452,Linda Newman,Cashier,2,2020-10-26,True
+453,Kevin Dawson,Cashier,9,2016-10-23,True
+454,Christian Lamb,Cashier,12,2021-09-01,False
+455,Kelly Ramirez,Store Manager,12,2017-10-21,True
+456,Dr. Roy Bryant,Cashier,14,2024-07-10,True
+457,Kyle Barnes,Cashier,6,2016-10-07,False
+458,Bridget Hernandez,Store Manager,18,2018-07-19,True
+459,James Rivera,Inventory Clerk,2,2017-05-24,True
+460,William Lucas MD,Floor Manager,2,2023-08-08,False
+461,Mrs. Rachel Hall,Inventory Clerk,3,2026-03-15,False
+462,Yvonne Blair,Floor Manager,16,2023-10-02,False
+463,James Powell,Inventory Clerk,9,2023-06-25,True
+464,Carrie Beck,Store Manager,7,2025-12-19,False
+465,Briana Kramer,Inventory Clerk,1,2023-03-30,True
+466,Mercedes Jefferson,Floor Manager,15,2018-01-31,True
+467,Caroline Adams,Store Manager,11,2024-08-16,False
+468,Brandon Hoffman,Cashier,15,2019-01-14,False
+469,Daniel Schmitt,Floor Manager,11,2024-12-15,False
+470,George Higgins,Cashier,2,2018-03-23,True
+471,Michelle Moore,Cashier,2,2018-12-31,True
+472,Joseph Gonzales,Floor Manager,8,2023-09-18,False
+473,Jennifer Hernandez,Inventory Clerk,19,2024-10-29,False
+474,William Pena,Cashier,20,2021-02-18,True
+475,Emily Smith,Inventory Clerk,12,2026-03-02,True
+476,Tracy Smith,Store Manager,4,2025-09-30,True
+477,Mrs. Melissa Cole,Cashier,12,2021-02-25,False
+478,Laura Ruiz,Floor Manager,5,2022-11-24,True
+479,Catherine Sparks,Inventory Clerk,14,2021-08-30,False
+480,Nicole Taylor,Store Manager,1,2021-05-16,False
+481,Jean Thomas,Inventory Clerk,13,2024-04-12,True
+482,Timothy Lambert,Store Manager,18,2022-04-23,True
+483,Joanna Richard,Floor Manager,2,2021-01-17,False
+484,Kenneth Hernandez,Cashier,16,2017-08-11,False
+485,Brandon Jackson,Floor Manager,17,2020-07-14,True
+486,Sandra Ford,Floor Manager,6,2025-01-20,True
+487,Felicia Mosley,Inventory Clerk,19,2024-02-28,True
+488,Michele Mitchell,Store Manager,19,2018-01-08,True
+489,Ronald Hill,Inventory Clerk,16,2022-09-11,False
+490,Steven Campbell,Inventory Clerk,20,2022-05-23,True
+491,Brian Swanson,Store Manager,14,2024-09-28,False
+492,Deanna Obrien,Inventory Clerk,8,2022-02-01,True
+493,Heidi Smith,Inventory Clerk,12,2018-01-01,True
+494,Daniel Kelly,Cashier,9,2017-12-28,False
+495,Heather Gonzalez,Cashier,17,2024-05-04,True
+496,Jessica Rodriguez,Inventory Clerk,6,2019-01-27,False
+497,Teresa Griffin,Cashier,13,2017-07-07,False
+498,David Murphy,Inventory Clerk,4,2023-02-28,False
+499,Paul Escobar,Store Manager,14,2019-04-24,False
+500,Jordan Parks,Inventory Clerk,9,2018-10-16,True
+501,Jessica Page,Store Manager,12,2017-05-21,False
+502,Robert Ortiz,Cashier,5,2024-10-12,False
+503,Jaime Jones,Inventory Clerk,17,2020-07-02,True
+504,Emily Mendoza,Cashier,11,2017-04-04,False
+505,Louis Smith,Cashier,17,2018-12-18,True
+506,Danny Byrd,Store Manager,10,2017-10-19,False
+507,Casey Nichols,Cashier,6,2019-01-19,True
+508,Daniel Hudson,Cashier,8,2017-03-24,True
+509,Mark Myers,Floor Manager,17,2020-01-29,True
+510,Justin Nelson,Floor Manager,14,2025-04-23,True
+511,Paul Jones,Cashier,8,2025-05-28,False
+512,Kimberly Sanchez,Store Manager,17,2022-05-02,False
+513,Chelsea Nguyen,Inventory Clerk,16,2018-08-20,False
+514,Danielle Moore,Cashier,3,2024-02-05,True
+515,Gabrielle Matthews,Inventory Clerk,9,2017-08-27,False
+516,Edward Delgado,Store Manager,20,2022-09-01,False
+517,Gregory Taylor,Floor Manager,13,2022-04-05,True
+518,Michael Steele,Floor Manager,10,2021-02-22,False
+519,Nicholas Morris,Store Manager,1,2024-10-17,False
+520,Sarah Marshall,Floor Manager,12,2024-11-30,True
+521,Brooke West,Floor Manager,17,2018-01-23,False
+522,Jeffrey Roy,Store Manager,1,2023-07-20,False
+523,Justin Miller,Inventory Clerk,18,2026-03-09,True
+524,David Baker,Store Manager,15,2016-07-23,True
+525,Stephanie Webster,Store Manager,18,2024-06-11,True
+526,Matthew Weaver,Floor Manager,6,2024-03-08,False
+527,Steven Williams,Floor Manager,20,2024-06-30,True
+528,Richard Walsh,Inventory Clerk,7,2018-10-25,False
+529,Tonya Cox,Store Manager,12,2019-10-01,True
+530,Jessica Walker,Floor Manager,9,2025-01-21,False
+531,Anthony Fuentes,Store Manager,2,2017-10-11,False
+532,Laura Sweeney,Store Manager,15,2025-05-22,True
+533,William Johnson,Floor Manager,6,2021-05-29,False
+534,Kelly Robinson,Floor Manager,18,2018-09-15,True
+535,Lindsay Thompson,Inventory Clerk,12,2020-09-25,False
+536,Travis Harrison,Inventory Clerk,2,2025-09-01,True
+537,Hannah Anderson,Store Manager,16,2019-03-27,False
+538,Kayla Carroll,Cashier,3,2025-07-01,True
+539,Eddie Lang,Store Manager,12,2023-11-09,False
+540,Stephen Sullivan,Cashier,4,2019-03-28,False
+541,John Reese,Cashier,9,2018-01-08,True
+542,Michael Flores,Cashier,6,2024-01-15,False
+543,Valerie Aguilar,Inventory Clerk,20,2020-04-07,False
+544,William Collins,Cashier,15,2018-11-11,True
+545,Donna Reynolds,Inventory Clerk,12,2022-04-07,True
+546,Nicole Neal,Inventory Clerk,14,2017-04-26,False
+547,Taylor Gonzales,Cashier,8,2017-03-12,False
+548,Ryan Gonzales,Floor Manager,11,2020-05-20,False
+549,Julie Romero,Inventory Clerk,5,2021-07-20,True
+550,Lauren Wiley,Inventory Clerk,9,2016-08-04,True
+551,Andrea Murray,Store Manager,18,2024-02-23,False
+552,Julie Ingram,Cashier,15,2018-05-11,True
+553,Nicholas Edwards,Inventory Clerk,6,2016-08-28,False
+554,Linda Lindsey,Floor Manager,6,2020-02-07,False
+555,Audrey Sandoval,Cashier,5,2023-08-01,True
+556,Travis Vasquez,Inventory Clerk,17,2017-04-06,True
+557,Lori Callahan,Inventory Clerk,4,2019-02-03,False
+558,Michael Hartman,Floor Manager,13,2017-08-01,True
+559,Andrew Martin,Cashier,2,2022-10-13,True
+560,Cory Robinson,Floor Manager,2,2023-08-20,True
+561,Curtis Montgomery,Cashier,8,2018-10-06,True
+562,Randy Evans,Store Manager,4,2017-10-23,True
+563,Robert Palmer,Cashier,9,2023-10-04,False
+564,Katherine Reese,Store Manager,5,2020-08-20,False
+565,Brianna Lawrence,Inventory Clerk,14,2018-12-18,True
+566,Rose Powell,Store Manager,20,2024-02-21,False
+567,Robin Shields,Floor Manager,18,2021-12-26,False
+568,Katherine James,Inventory Clerk,12,2024-03-11,False
+569,Sean Flores,Floor Manager,1,2019-02-20,False
+570,Justin Ray,Store Manager,1,2016-05-27,True
+571,Kimberly Norman,Cashier,12,2020-05-12,False
+572,Donna Vargas,Floor Manager,7,2019-08-18,False
+573,Jacob Norton,Inventory Clerk,18,2019-10-24,True
+574,Matthew Petty,Cashier,15,2024-11-07,False
+575,Grace Hernandez,Store Manager,2,2017-08-22,False
+576,Patricia Zimmerman,Floor Manager,15,2024-08-14,True
+577,Larry Nelson,Store Manager,9,2026-01-25,False
+578,Emily Miller,Floor Manager,15,2017-07-24,False
+579,Jeffrey Chang,Store Manager,12,2023-08-22,True
+580,Susan Marsh,Store Manager,15,2025-03-10,False
+581,Ashley Roberts,Inventory Clerk,13,2021-06-04,True
+582,Eric Duarte,Store Manager,16,2018-07-07,False
+583,Brian Keller,Cashier,15,2018-07-01,True
+584,Isabella Jones,Inventory Clerk,4,2021-11-12,False
+585,Michael Howard,Inventory Clerk,6,2018-01-03,True
+586,Sharon Page,Floor Manager,4,2024-05-16,False
+587,Bianca Shelton,Cashier,9,2020-08-18,True
+588,Robert Watts,Floor Manager,13,2017-05-04,False
+589,Brian Harris,Inventory Clerk,16,2026-02-01,False
+590,Justin Mooney,Floor Manager,5,2019-08-07,False
+591,Brenda Newton,Store Manager,20,2019-08-07,False
+592,Debra Rodriguez,Cashier,18,2020-03-29,True
+593,Garrett Watson,Store Manager,2,2021-03-05,True
+594,Thomas Lewis,Floor Manager,14,2019-10-04,True
+595,Janice Gonzalez,Floor Manager,1,2019-12-24,False
+596,Anne Parker,Floor Manager,6,2017-08-17,False
+597,Stacy Wheeler,Floor Manager,18,2025-08-07,True
+598,Dana Miller,Inventory Clerk,10,2019-03-07,False
+599,Adam Schmidt,Inventory Clerk,11,2017-06-13,True
+600,Donald Manning,Store Manager,13,2024-10-01,True
+601,Anthony Ball,Cashier,15,2020-08-13,True
+602,James Sanchez,Inventory Clerk,1,2020-01-09,False
+603,Benjamin Norman,Store Manager,20,2023-02-03,True
+604,Jamie Lopez,Store Manager,16,2024-02-17,True
+605,Pamela Morrison,Inventory Clerk,8,2020-10-09,True
+606,Shannon Simon,Inventory Clerk,5,2021-02-03,True
+607,Danielle English,Inventory Clerk,5,2023-02-27,True
+608,Lindsay Horne,Inventory Clerk,2,2016-04-24,False
+609,Laura Davila,Floor Manager,7,2018-05-17,False
+610,Bradley Bauer,Cashier,11,2021-04-11,True
+611,Alex Hughes,Inventory Clerk,17,2025-05-27,True
+612,Ashley Berry DDS,Floor Manager,13,2023-07-01,True
+613,Mr. Jorge Knight,Cashier,9,2016-10-28,True
+614,Tracy Anderson,Floor Manager,16,2018-03-05,False
+615,Jill Henderson,Cashier,8,2016-04-02,True
+616,Kenneth Gonzales,Inventory Clerk,8,2024-04-24,True
+617,Christie Crawford,Cashier,2,2020-05-29,True
+618,Ryan Lee,Cashier,9,2022-11-29,False
+619,Jodi Santos,Floor Manager,3,2018-03-16,False
+620,Timothy Smith,Floor Manager,6,2020-02-19,True
+621,Kathryn Moon,Cashier,6,2025-05-24,True
+622,Jordan Wilson,Floor Manager,4,2019-09-29,False
+623,Russell Martinez,Store Manager,14,2018-10-27,False
+624,Charles Fowler,Floor Manager,6,2020-04-26,True
+625,Debra Jennings,Inventory Clerk,18,2018-07-03,True
+626,Taylor Le,Floor Manager,13,2025-03-03,False
+627,Katie Gray,Inventory Clerk,16,2026-02-24,False
+628,Rebecca Wang,Floor Manager,6,2019-06-16,False
+629,Kim Thomas,Inventory Clerk,2,2025-11-11,False
+630,Cassidy Watkins,Store Manager,13,2020-06-25,False
+631,Jesse Blanchard,Floor Manager,1,2024-02-20,False
+632,Greg Juarez,Cashier,11,2020-09-24,False
+633,Megan Hill,Floor Manager,13,2023-04-26,False
+634,Madison Huerta,Store Manager,18,2021-12-15,True
+635,Sara Olsen,Store Manager,14,2024-03-05,True
+636,Austin Brown,Inventory Clerk,13,2023-12-14,False
+637,John Paul,Store Manager,6,2022-04-21,False
+638,Hannah Anderson,Cashier,17,2017-10-08,False
+639,Edwin Lewis,Store Manager,15,2019-02-17,False
+640,Eric Campbell,Store Manager,12,2020-03-15,True
+641,Meghan Alvarado,Inventory Clerk,3,2026-01-23,True
+642,Mr. Isaac Calhoun,Inventory Clerk,15,2017-01-25,False
+643,Nathan Howell,Store Manager,13,2019-03-04,False
+644,Brittney Barrera,Cashier,13,2018-02-22,False
+645,Stephanie Proctor,Store Manager,6,2024-05-20,True
+646,Zachary Rodriguez,Inventory Clerk,13,2017-07-18,True
+647,Jesse Bender,Floor Manager,12,2018-05-09,True
+648,Christina Beltran,Floor Manager,2,2017-05-22,True
+649,Jennifer Harmon,Store Manager,1,2017-09-05,True
+650,James Armstrong,Store Manager,3,2017-03-26,True
+651,Adam Newman,Store Manager,19,2022-11-24,True
+652,Justin Smith,Inventory Clerk,11,2017-11-30,False
+653,David Humphrey,Store Manager,19,2017-09-27,False
+654,Megan Dunn,Inventory Clerk,18,2021-04-23,False
+655,Jerry Rodriguez,Store Manager,1,2017-01-13,True
+656,Bailey Pena,Inventory Clerk,19,2021-12-16,False
+657,Joel Cannon,Inventory Clerk,14,2019-10-19,True
+658,Jerry Donaldson,Store Manager,2,2016-10-30,False
+659,Kelli Moore,Inventory Clerk,16,2018-12-19,True
+660,Madison Robertson,Inventory Clerk,4,2018-05-27,True
+661,Colleen Montes,Cashier,11,2026-03-18,False
+662,Gregory Martinez,Inventory Clerk,10,2020-02-10,True
+663,Juan Clark,Cashier,7,2020-02-14,True
+664,Dustin Schneider,Inventory Clerk,17,2019-07-18,True
+665,Warren Lee,Floor Manager,6,2022-09-27,True
+666,Janet Meyer,Inventory Clerk,9,2025-12-19,False
+667,Angela Barnes,Inventory Clerk,5,2023-10-31,False
+668,Margaret Smith,Cashier,7,2023-03-20,False
+669,Allen Brown,Cashier,15,2024-02-18,True
+670,Joseph Hobbs,Floor Manager,13,2017-01-18,False
+671,Jeremy Wells,Store Manager,9,2017-03-01,False
+672,Charles Diaz,Inventory Clerk,20,2025-08-25,False
+673,Kevin Fischer,Inventory Clerk,6,2019-02-24,True
+674,Rhonda Allen,Floor Manager,7,2017-11-30,False
+675,Marie Reyes,Inventory Clerk,12,2017-10-16,False
+676,Mr. Shaun Lopez,Cashier,13,2025-06-26,False
+677,Barry Taylor,Store Manager,8,2021-06-25,True
+678,Ashley Richardson,Cashier,13,2018-06-24,True
+679,Alexander Reynolds,Inventory Clerk,16,2020-06-07,True
+680,Michael Lin,Inventory Clerk,18,2019-07-30,True
+681,Alexander Russell II,Floor Manager,16,2019-05-18,False
+682,Melissa White,Store Manager,20,2023-07-12,True
+683,William Cole,Cashier,20,2017-11-27,False
+684,Samantha Gomez,Floor Manager,11,2025-09-05,False
+685,Jason Oconnell,Inventory Clerk,2,2025-07-15,False
+686,Corey Ferrell,Cashier,16,2020-01-23,False
+687,Arthur Duarte,Store Manager,16,2017-07-22,False
+688,Zachary Oneal,Floor Manager,11,2022-12-06,True
+689,Carlos Brown,Cashier,6,2023-02-10,False
+690,Katie Gomez,Floor Manager,6,2016-04-04,True
+691,Robert Jackson MD,Inventory Clerk,20,2020-12-08,True
+692,Michelle Jones,Store Manager,14,2019-10-06,True
+693,Dr. Mathew Fisher,Inventory Clerk,2,2017-12-15,False
+694,Samantha Edwards,Store Manager,17,2024-11-20,False
+695,Brian Jennings DVM,Floor Manager,16,2025-09-10,True
+696,Dr. Todd Nichols,Cashier,5,2017-10-21,True
+697,Vanessa Burns,Floor Manager,12,2021-01-13,False
+698,Mark Allen,Store Manager,13,2026-01-12,True
+699,Melody Moore,Inventory Clerk,15,2023-05-17,False
+700,Nicholas Sherman,Floor Manager,4,2020-04-13,True
